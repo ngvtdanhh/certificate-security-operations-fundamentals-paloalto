@@ -116,7 +116,7 @@ Example:
 
 - FIRST.org – Incident Response Best Practices
 
-- CISA IR Guidelines – https://www.cisa.gov - https://www.cisa.gov/
+- CISA IR Guidelines – https://www.cisa.gov 
 
 ## ✅ Summary
 
