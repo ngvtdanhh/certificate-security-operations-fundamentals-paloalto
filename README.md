@@ -51,19 +51,15 @@ The course emphasizes core SOC workflows, SIEM alerting, threat response, and op
 
 ## 💻 Demo
 
-- [`siem-sample-alert.md`](./demo/siem-sample-alert.md)  
-- [`incident-investigation-flow.md`](./demo/incident-investigation-flow.md)  
-- [`edr-vs-siem-case.md`](./demo/edr-vs-siem-case.md)  
-- [`alert-mapping-mitre.md`](./demo/alert-mapping-mitre.md)
+- [`siem-rule-tuning.md`](./demo/siem-rule-tuning.md) – Sample SIEM alert rule optimization  
+- [`soar-playbook-example.md`](./demo/soar-playbook-example.md) – SOAR-style automation logic  
+- [`threat-response-scenarios.md`](./demo/threat-response-scenarios.md) – Sample threat response flows
 
 ---
 
 ## 🧠 Strategy
 
-- [`incident-escalation-framework.md`](./strategy/incident-escalation-framework.md)  
-- [`alert-prioritization-guide.md`](./strategy/alert-prioritization-guide.md)  
-- [`soc-tooling-checklist.md`](./strategy/soc-tooling-checklist.md)  
-- [`tier-escalation-readiness.md`](./strategy/tier-escalation-readiness.md)
+- [`incident-escalation-framework.md`](./strategy/incident-escalation-framework.md) – Triage, severity classification, and escalation model
 
 ---
 
