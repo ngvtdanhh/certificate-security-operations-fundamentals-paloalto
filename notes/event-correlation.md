@@ -110,5 +110,20 @@ THEN
 | Lack of tuning over time    | Degraded detection quality      |
 | No context or playbook tied | Analyst burnout                 |
 
+## 📚 References
 
+- Palo Alto Networks – Security Operations Fundamentals (2025 Edition)
 
+- MITRE ATT&CK – Correlation use cases for multi-stage adversary behavior
+
+- NIST SP 800-92 – Guide to Computer Security Log Management
+
+- FIRST.org – Common Event Expression (CEE) Standards
+
+## 📌 Summary
+
+Event correlation transforms raw data into meaningful security outcomes. With well-tuned logic and contextual enrichment, analysts can detect stealthy attacks early, prioritize effectively, and reduce response time.
+
+```yaml
+"Correlation is not just matching patterns — it’s building stories from signals." – SOC Analyst Playbook
+```
