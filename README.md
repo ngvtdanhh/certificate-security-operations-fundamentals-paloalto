@@ -5,8 +5,7 @@
 ![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=openaccess)
 ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
 
-This repository contains structured notes, hands-on demos, SOC playbooks, and certification proof from the **"Security Operations Fundamentals"** course by **Palo Alto Networks**.  
-The course emphasizes core SOC workflows, SIEM alerting, threat response, and operational maturity.
+This repository contains structured notes, threat detection demos, escalation frameworks, and a certificate of completion from the **[Security Operations Fundamentals](https://beacon.paloaltonetworks.com/student/path/712296-security-operations-fundamentals)** course by **Palo Alto Networks**, available through their [Beacon platform](https://beacon.paloaltonetworks.com/).
 
 ---
 
