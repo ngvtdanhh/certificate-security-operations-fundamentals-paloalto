@@ -1,8 +1,9 @@
 # 🛡️ Security Operations Fundamentals – Palo Alto Networks
 
-![Course](https://img.shields.io/badge/PaloAlto-Certified-brightgreen?style=flat-square&logo=paloaltonetworks)
+![Course](https://img.shields.io/badge/PaloAlto%20Networks-Certified-brightgreen?style=flat-square&logo=paloaltonetworks)
+![Platform](https://img.shields.io/badge/Beacon-Platform-blue?style=flat-square&logo=leanpub)
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
-![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=openaccess)
+![Focus](https://img.shields.io/badge/Focus-SOC%20%2F%20SIEM%20%2F%20SOAR-red?style=flat-square&logo=splunk)
 ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
 
 This repository contains structured notes, threat detection demos, escalation frameworks, and a certificate of completion from the **[Security Operations Fundamentals](https://beacon.paloaltonetworks.com/student/path/712296-security-operations-fundamentals)** course by **Palo Alto Networks**, available through their [Beacon platform](https://beacon.paloaltonetworks.com/).
