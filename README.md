@@ -12,7 +12,7 @@ The course emphasizes core SOC workflows, SIEM alerting, threat response, and op
 
 ## 📜 Certificate
 
-- 🎓 [`Security Operations Fundamentals – Palo Alto`](./cert/security-operations-paloalto-certificate.pdf)
+- 🎓 [`Security Operations Fundamentals – Palo Alto`](./cert/security-operations-paloalto-certificate.png)
 
 ---
 
