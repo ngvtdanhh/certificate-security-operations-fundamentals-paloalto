@@ -1,0 +1,1 @@
+# certificate-security-operations-fundamentals-paloalto
